@@ -1,2 +1,2 @@
 #!/bin/bash
-head -${i%2}
+head ${i%2}
